@@ -1,4 +1,4 @@
-package com.shawn.safetravels2;
+package com.shawn.DojoAndNinjas2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
